@@ -11,3 +11,9 @@ To use Tubey, insert your bot token and run the bot with the following commands
 - `.pause` to pause
 - `.resume` to resume
 - `.disconnect` to send Tubey on his way!
+
+
+## Usage Notes
+
+- Ensure bot permissions are set to administrator in Discord app settings
+- Enable all bot intents
